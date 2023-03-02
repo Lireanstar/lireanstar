@@ -3,7 +3,7 @@
 - 🔭 My research area: Multi-modal Learning, Human-robot Interaction, and Natural Language Processing
 - 📫 How to reach me: libincn@hnu.edu.cn
 - ⚡ What I'm interested in: Keeping Fitness and Delicious foods
-- ✨ More details: [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2ZIBEWgAAAAJ), [Personal Website](www.libincn.top)
+- ✨ More details: [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2ZIBEWgAAAAJ), [Personal Website](libincn.top)
 
 ### Recent works
 
